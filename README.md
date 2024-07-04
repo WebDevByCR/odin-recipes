@@ -1,0 +1,1 @@
+This project will encompass me creating a basic recipes website minus CSS as I refresh my web dev skills.  After completion of this project I will have demonstrated my ability to create a web site using HTML.
